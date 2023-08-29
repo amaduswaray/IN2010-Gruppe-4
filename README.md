@@ -15,9 +15,9 @@ Mattermost: amadus
 ### Obliger:
 
 * [Innlevering 1](https://www.uio.no/studier/emner/matnat/ifi/IN2010/h23/innleveringer/innlevering1.pdf)(Oblikatorisk!) - Frist: Torsdag 28. September kl. 23:59
-* [Innlevering 2]() - Frist: Torsdag 5. Oktober kl. 23:59
-* [Innlevering 3]() - Frist: Torsdag 19. Oktober kl. 23:59
-* [Innlevering 4]() - Frist: Torsdag 2. November kl. 23:59
+* [Innlevering 2] - Frist: Torsdag 5. Oktober kl. 23:59
+* [Innlevering 3] - Frist: Torsdag 19. Oktober kl. 23:59
+* [Innlevering 4] - Frist: Torsdag 2. November kl. 23:59
 
 
 ## Ukeplan
