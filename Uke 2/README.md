@@ -7,17 +7,13 @@ Ukas algoritmer handler primært om å implementere de ulike algoritmene!:
 * Bubble Sort
 * Selection Sort
 * Insertion Sort
-* Heap Sort
+* Merge Sort
 
 
 NB: Veldig viktig at du forstår hvordan algoritmene fungerer! Hvis du er etter en utfordring, så andbefaler jeg å forstå ukens algoritmer intuitivt, og deretter implementere det, uten bruk av pseudokoden!
 
 Du kan vinne visualiseringer a de ulike algoritmene [her](https://visualgo.net/en/sorting)
 
-
-#### Viktige Datastrukturer
-* Max Heap
-  * Her gjelder det å vite hvordan man bygger et maks heap!
 
 
 
@@ -45,9 +41,6 @@ Ta utgangspunkt i Bubble, Selection og Insertion sort:
 
 (d) ###### sort garanterer et minimalt antall bytter.
 
-### Binære Heaps
-
-For binære heaps anbefales det å implementere algoritmene fra timen! Om du ser etter en større utfordring så er det mange kattis oppgaver som tar bruk i prioritetskøer!
 
 
 ### Kjøretidsanalyse
@@ -83,8 +76,6 @@ Q: Hvor mange steg trenger man for å løse en algoritme? In worst case.
 Når man jobber flere inputs og inputsstørrelser som er uavhengig av hverandre, så får man flere variabler som m og n. Da kan man representere kjøretidskompleksiteten med hensyn til disse variablene
 * Eskempel: O(m + n) og O(m * n)
 * OBS! På oppgaver vil man ofte oppgi svar men kun én variabel, så ved bruk av Lifehack reglene så kan man komme i mål ;)
-
-
 
 
 
