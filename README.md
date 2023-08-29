@@ -1,6 +1,6 @@
 # IN2010 - Algoritmer og datastrukturer - 2023 - Gruppe 4
 
-Dettte er er et repo for gruppe 4 i IN2010 H22. Alle slides, kode og oppgaver som blir gjennomgått i timene vil bli lagt ut her :)
+Dettte er er et repo for gruppe 4 i IN2010 H23. Alle slides, kode og oppgaver som blir gjennomgått i timene vil bli lagt ut her :)
 
 Timene foregår på torsdag kl. 12:15 på seminarrom Prolog! 
 
@@ -22,4 +22,4 @@ Mattermost: amadus
 
 ## Ukeplan
 * [Uke 1](https://github.com/amaduswaray/IN2010-Gruppe-4/tree/main/Uke%201) - O-Notasjon og Binærsøk
-* [Uke 2](https://github.com/amaduswaray/IN2010-Gruppe-5/tree/main/Uke%2002) - Sortering 1: Bubble, Selection, Insertion og Merge
+* [Uke 2](https://github.com/amaduswaray/IN2010-Gruppe-4/tree/main/Uke%202) - Sortering 1: Bubble, Selection, Insertion og Merge
