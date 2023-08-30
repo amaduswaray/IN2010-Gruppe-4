@@ -4,6 +4,8 @@ Dettte er er et repo for gruppe 4 i IN2010 H23. Alle slides, kode og oppgaver so
 
 Timene foregår på torsdag kl. 12:15 på seminarrom Prolog! 
 
+Ukens Kattis leaderboard finner du [her](https://open.kattis.com/contests/dnees3)
+
 ### Kontakt:
 
 Mail: amadus@ifi.uio.no
