@@ -1,6 +1,6 @@
 # Uke 2 - Sortering: Bubble, Selection, Insertion og Heap
 
-Denne uka gikk vi gjennom de ulike trestrukturene, og hadde gjennomgang av rotasjoner Gjerne gå ukas [slides](https://github.com/amaduswaray/IN2010-Gruppe-5/blob/main/Uke%2004/IN2010%20Uke%204.pdf)
+Denne uka gikk vi gjennom de ulike trestrukturene, og hadde gjennomgang av rotasjoner Gjerne gå ukas [slides](https://github.com/amaduswaray/IN2010-Gruppe-4/blob/main/Uke%202/Uke%202.pdf)
 
 ### Algorithms of the week
 Ukas algoritmer handler primært om å implementere de ulike algoritmene!:
