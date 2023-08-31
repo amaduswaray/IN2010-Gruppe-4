@@ -45,7 +45,7 @@ Ta utgangspunkt i Bubble, Selection og Insertion sort:
 
 ### Kjøretidsanalyse
 
-Her limer jeg inn mine life hacks fra [Uke 1](https://github.com/amaduswaray/IN2010-Gruppe-5/tree/main/Uke%2001)
+Her limer jeg inn mine life hacks fra [Uke 1](https://github.com/amaduswaray/IN2010-Gruppe-4/tree/main/Uke%201)
 
 #### O-Notasjon(Big O)
 
