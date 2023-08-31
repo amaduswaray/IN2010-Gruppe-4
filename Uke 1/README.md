@@ -60,8 +60,8 @@ Prøv deg på disse enkle oppgave!
 <img width="479" alt="Screen Shot 2022-08-31 at 2 16 42 PM" src="https://user-images.githubusercontent.com/86655546/187676321-980ac50c-4fff-478b-a451-4a73dccc9e71.png">
 
 
-* [Begynner](https://github.com/sergiosja/IN2010-Gruppe-6/blob/main/Uke%2001/Big%20O/bigo_easy.py)
-* [Intermedite](https://github.com/sergiosja/IN2010-Gruppe-6/blob/main/Uke%2001/Big%20O/bigo_intermediate.py)
+* [Begynner](https://github.uio.no/IN2010/Oppgaver-H22/blob/main/Uke%2001/Big%20O/bigo_easy.py)
+* [Intermedite](https://github.uio.no/IN2010/Oppgaver-H22/blob/main/Uke%2001/Big%20O/bigo_intermediate.py)
 
 
 ### Ukesoppgaver fra Boka
