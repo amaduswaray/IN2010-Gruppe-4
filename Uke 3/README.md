@@ -1,7 +1,7 @@
 
 # Uke 3 - Trær, Binære søketrær og AVL Trær :)
 
-Denne uka gikk vi gjennom de ulike trestrukturene, og hadde gjennomgang av rotasjoner Gjerne gå ukas [slides](https://github.com/amaduswaray/IN2010-Gruppe-5/blob/main/Uke%2002/IN2010%20Uke%202.pdf)
+Denne uka gikk vi gjennom de ulike trestrukturene, og hadde gjennomgang av rotasjoner Gjerne gå ukas [slides](https://github.com/amaduswaray/IN2010-Gruppe-4/blob/main/Uke%203/Uke%203.pdf)
 
 ### Algorithms of the week
 Ukas algoritmer var basert på ulike operasjoner som man utfører på trær. Dette inkluderer:
