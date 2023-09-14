@@ -28,4 +28,4 @@ Mattermost: amadus
 * [Uke 1](https://github.com/amaduswaray/IN2010-Gruppe-4/tree/main/Uke%201) - O-Notasjon og Binærsøk
 * [Uke 2](https://github.com/amaduswaray/IN2010-Gruppe-4/tree/main/Uke%202) - Sortering 1: Bubble, Selection, Insertion og Merge
 * [Uke 3](https://github.com/amaduswaray/IN2010-Gruppe-4/tree/main/Uke%203) - Trær, Binære søketrær og AVL Trær
-* [Uke 4]() - Prioritetskøer, binære heaps og huffman-koding
+* [Uke 4](https://github.com/amaduswaray/IN2010-Gruppe-4/tree/main/Uke%204) - Prioritetskøer, binære heaps og huffman-koding
