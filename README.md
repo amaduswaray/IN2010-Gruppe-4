@@ -6,6 +6,8 @@ Timene foregår på torsdag kl. 12:15 på seminarrom Prolog!
 
 **Ukens Kattis leaderboard finner du [her](https://open.kattis.com/contests/avnmke)**
 
+**Informasjon on pseudokode kan dere finne på bunnen av disse [slidsene](https://www.uio.no/studier/emner/matnat/ifi/IN2010/h21/slides/uke-40.pdf)**
+
 ### Kontakt:
 
 Mail: amadus@ifi.uio.no
