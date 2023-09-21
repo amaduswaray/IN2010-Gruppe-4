@@ -1,4 +1,4 @@
-# Uke 5 - Grafer: Hva grafer er, hvordan de representeres, hvordan traversere de, hvordan de kan ordnes.
+# Uke 5 - Grafer - Traversering(BFS og DFS) - Topologisk sortering
 
 Denne uka gikk vi gjennom litt basoics om grafer. Se mer på ukas [slides]
 
