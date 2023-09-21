@@ -19,7 +19,7 @@ Mattermost: amadus
 ### Obliger:
 
 * [Innlevering 1](https://www.uio.no/studier/emner/matnat/ifi/IN2010/h23/innleveringer/innlevering1.pdf)(Oblikatorisk!) - Frist: Torsdag 28. September kl. 23:59
-* [Innlevering 2] - Frist: Torsdag 5. Oktober kl. 23:59
+* [Innlevering 2](https://www.uio.no/studier/emner/matnat/ifi/IN2010/h23/innleveringer/innlevering2.pdf) - Frist: Torsdag 5. Oktober kl. 23:59
 * [Innlevering 3] - Frist: Torsdag 19. Oktober kl. 23:59
 * [Innlevering 4] - Frist: Torsdag 2. November kl. 23:59
 
@@ -29,3 +29,4 @@ Mattermost: amadus
 * [Uke 2](https://github.com/amaduswaray/IN2010-Gruppe-4/tree/main/Uke%202) - Sortering 1: Bubble, Selection, Insertion og Merge
 * [Uke 3](https://github.com/amaduswaray/IN2010-Gruppe-4/tree/main/Uke%203) - Trær, Binære søketrær og AVL Trær
 * [Uke 4](https://github.com/amaduswaray/IN2010-Gruppe-4/tree/main/Uke%204) - Prioritetskøer, binære heaps og huffman-koding
+* [Uke 5](https://github.com/amaduswaray/IN2010-Gruppe-4/tree/main/Uke%205) - Grafer - Traversering(BFS og DFS) - Topologisk sortering
