@@ -11,6 +11,8 @@ Ukas algoritmer handler primært om å traversere grafer!
 
 NB: Veldig viktig at du forstår hvordan algoritmene fungerer! Hvis du er etter en utfordring, så andbefaler jeg å forstå ukens algoritmer intuitivt, og deretter implementere det, uten bruk av pseudokoden!
 
+Intuitive implementasjoner av grafer, dfs og bfs kan dere også finne [her](https://github.com/amaduswaray/IN2010-Gruppe-5/tree/main/Uke%2006/Live-Kode)
+
 
 # Ukes og Gruppe Oppgaver:
 
