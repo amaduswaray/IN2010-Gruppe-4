@@ -1,6 +1,6 @@
 # Uke 5 - Grafer - Traversering(BFS og DFS) - Topologisk sortering
 
-Denne uka gikk vi gjennom litt basoics om grafer. Se mer på ukas [slides]
+Denne uka gikk vi gjennom litt basoics om grafer. Se mer på ukas [slides](https://github.com/amaduswaray/IN2010-Gruppe-4/blob/main/Uke%205/Uke%205.pdf)
 
 ### Algorithms of the week
 Ukas algoritmer handler primært om å traversere grafer!
