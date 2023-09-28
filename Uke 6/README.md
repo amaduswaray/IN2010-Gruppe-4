@@ -1,6 +1,6 @@
 # Uke 6 - Grafer: Korsteste vei og Spenntrær
 
-Denne uka gikk vi gjennom spenntrær. Ettersom at forelesning uke 41 er repitisjon, så var denne ukens gruppetimer fokusert på spenntrær. Se mer på ukens [slides]
+Denne uka gikk vi gjennom spenntrær. Ettersom at forelesning uke 41 er repitisjon, så var denne ukens gruppetimer fokusert på spenntrær. Se mer på ukens [slides](https://github.com/amaduswaray/IN2010-Gruppe-4/blob/main/Uke%206/Uke%206.pdf)
 
 ### Algorithms of the week
 Ukas algoritmer handler grafer.
