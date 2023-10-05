@@ -8,6 +8,8 @@ Timene foregår på torsdag kl. 12:15 på seminarrom Prolog!
 
 **Informasjon on pseudokode kan dere finne på bunnen av disse [slidsene](https://www.uio.no/studier/emner/matnat/ifi/IN2010/h21/slides/uke-40.pdf)**
 
+
+**Uke 8 er repitisjonstime! Fyll ut dette skjemaet om det er noe du ønsker at jeg skal gå gjennom :) [skjema]()https://www.menti.com/aljr2b5pcc15**
 ### Kontakt:
 
 Mail: amadus@ifi.uio.no
