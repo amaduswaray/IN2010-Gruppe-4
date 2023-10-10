@@ -1,6 +1,6 @@
 # Uke 7 - 2-Sammenhengende grafer og sammenhengende komponenter
 
-Denne uka gikk vi gjennom grafer del 3. Slides finner dere [her]
+Denne uka gikk vi gjennom grafer del 3. Slides finner dere [her](https://github.com/amaduswaray/IN2010-Gruppe-4/blob/main/Uke%207/Uke%207.pdf)
 
 
 ### Algorithms of the week
