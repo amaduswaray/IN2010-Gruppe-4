@@ -2,7 +2,7 @@
 
 Denne Uka var det repetisjon av ulike ting, spesielt rettet mot eksamen
 
-Slides er done og de er [her](https://github.com/amaduswaray/IN2010-Gruppe-5/blob/main/Uke%2009/IN2010%20Uke%209.pdf)
+Slides er done og de er [her](https://github.com/amaduswaray/IN2010-Gruppe-4/blob/main/Uke%208/Uke%208.pdf)
 
 
 ### Algorithms of the week
