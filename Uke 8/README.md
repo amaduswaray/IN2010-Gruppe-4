@@ -15,5 +15,5 @@ Uke 1 - 7
 
 ### Gruppeopppgaver for grafer:
 
-Oppgaver som ble delt ut i timen kan du finne [her]()
+Oppgaver som ble delt ut i timen kan du finne [her](https://github.com/amaduswaray/IN2010-Gruppe-4/blob/main/Uke%208/Oppgavesett.pdf)
 
