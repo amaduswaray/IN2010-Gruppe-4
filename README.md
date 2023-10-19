@@ -33,3 +33,4 @@ Mattermost: amadus
 * [Uke 5](https://github.com/amaduswaray/IN2010-Gruppe-4/tree/main/Uke%205) - Grafer - Traversering(BFS og DFS) - Topologisk sortering
 * [Uke 6](https://github.com/amaduswaray/IN2010-Gruppe-4/tree/main/Uke%206) - Grafer - Korteste vei og Minimale spenntrær
 * [Uke 7](https://github.com/amaduswaray/IN2010-Gruppe-4/tree/main/Uke%207) - Grafer 2-Sammenhengende grafer og sammenhengende komponenter
+* [Uke 8](https://github.com/amaduswaray/IN2010-Gruppe-4/tree/main/Uke%208) - Repetisjon
