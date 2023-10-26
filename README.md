@@ -8,7 +8,7 @@ Timene foregår på torsdag kl. 12:15 på seminarrom Prolog!
 **Informasjon on pseudokode kan dere finne på bunnen av disse [slidsene](https://www.uio.no/studier/emner/matnat/ifi/IN2010/h21/slides/uke-40.pdf)**
 
 
-**Uke 8 er repitisjonstime! Fyll ut dette skjemaet om det er noe du ønsker at jeg skal gå gjennom :) [skjema](https://www.menti.com/aljr2b5pcc15)*
+
 ### Kontakt:
 
 Mail: amadus@ifi.uio.no
@@ -22,7 +22,7 @@ Mattermost: amadus
 * [Innlevering 1](https://www.uio.no/studier/emner/matnat/ifi/IN2010/h23/innleveringer/innlevering1.pdf)(Oblikatorisk!) - Frist: Torsdag 28. September kl. 23:59
 * [Innlevering 2](https://www.uio.no/studier/emner/matnat/ifi/IN2010/h23/innleveringer/innlevering2.pdf) - Frist: Torsdag 5. Oktober kl. 23:59
 * [Innlevering 3](https://www.uio.no/studier/emner/matnat/ifi/IN2010/h23/innleveringer/innlevering3.pdf) - Frist: Torsdag 19. Oktober kl. 23:59
-* [Innlevering 4] - Frist: Torsdag 2. November kl. 23:59
+* [Innlevering 4](https://www.uio.no/studier/emner/matnat/ifi/IN2010/h23/innleveringer/innlevering4.pdf) - Frist: Torsdag 2. November kl. 23:59
 
 
 ## Ukeplan
