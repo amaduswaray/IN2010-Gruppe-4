@@ -1,6 +1,6 @@
 # Uke 10 - Hashing
 
-Denne uken gikk vi gjennom hashing og de ulike hashing funksjonene! Se mer på ukas [slides]()
+Denne uken gikk vi gjennom hashing og de ulike hashing funksjonene! Se mer på ukas [slides](https://github.com/amaduswaray/IN2010-Gruppe-4/blob/main/Uke%2010/Uke%2010.pdf)
 
 ### Algorithms of the week
 Ukas algoritmer handler primært om kollisjonshåndtering for hashing.
