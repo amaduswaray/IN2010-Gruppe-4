@@ -44,3 +44,4 @@ På emne siden så ligger ikke konte-eksamen 2021 ute, men den kan dere finne [h
 * [Uke 8](https://github.com/amaduswaray/IN2010-Gruppe-4/tree/main/Uke%208) - Repetisjon
 * [Uke 10](https://www.uio.no/studier/emner/matnat/ifi/IN2010/h23/innleveringer/innlevering4.pdf) - Hashing
 * [Uke 11](https://github.com/amaduswaray/IN2010-Gruppe-4/tree/main/Uke%2011) - Sortering 2: Heap, Quick, Bucket og Radix
+* [Uke 12](https://github.com/amaduswaray/IN2010-Gruppe-4/tree/main/Uke%2012) - Beregnbarhet og Kompleksitet
