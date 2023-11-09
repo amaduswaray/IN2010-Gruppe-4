@@ -25,6 +25,9 @@ Mattermost: amadus
 * [Innlevering 4](https://www.uio.no/studier/emner/matnat/ifi/IN2010/h23/innleveringer/innlevering4.pdf) - Frist: Torsdag 2. November kl. 23:59
 
 
+### Eksterne eksamensressurser:
+
+
 ## Ukeplan
 * [Uke 1](https://github.com/amaduswaray/IN2010-Gruppe-4/tree/main/Uke%201) - O-Notasjon og Binærsøk
 * [Uke 2](https://github.com/amaduswaray/IN2010-Gruppe-4/tree/main/Uke%202) - Sortering 1: Bubble, Selection, Insertion og Merge
