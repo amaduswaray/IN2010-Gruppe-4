@@ -35,3 +35,4 @@ Mattermost: amadus
 * [Uke 7](https://github.com/amaduswaray/IN2010-Gruppe-4/tree/main/Uke%207) - Grafer 2-Sammenhengende grafer og sammenhengende komponenter
 * [Uke 8](https://github.com/amaduswaray/IN2010-Gruppe-4/tree/main/Uke%208) - Repetisjon
 * [Uke 10](https://www.uio.no/studier/emner/matnat/ifi/IN2010/h23/innleveringer/innlevering4.pdf) - Hashing
+* [Uke 11](https://github.com/amaduswaray/IN2010-Gruppe-4/tree/main/Uke%2011) - Sortering 2: Heap, Quick, Bucket og Radix
