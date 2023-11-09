@@ -1,6 +1,6 @@
 # Uke 11 - Sortering 2: Heap, Quick, Bucket og Radix
 
-Denne uka gikk vi gjennom de ulike trestrukturene, og hadde gjennomgang av rotasjoner Gjerne gå ukas [slides]()
+Denne uka gikk vi gjennom de ulike trestrukturene, og hadde gjennomgang av rotasjoner Gjerne gå ukas [slides](https://github.com/amaduswaray/IN2010-Gruppe-4/blob/main/Uke%2011/Uke%2011.pdf)
 
 ### Algorithms of the week
 Ukas algoritmer handler primært om å implementere de ulike algoritmene!:
