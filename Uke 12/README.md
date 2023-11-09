@@ -1,6 +1,6 @@
 # Uke 12 - Beregnbarhet og Kompleksitet
 
-Denne uka gikk vi gjennom beregnbarhet og kompleksite(P og NP) i tillegg til polynomtidsreduksjoner. Se mer på ukas [slides]()
+Denne uka gikk vi gjennom beregnbarhet og kompleksite(P og NP) i tillegg til polynomtidsreduksjoner. Se mer på ukas [slides](https://github.com/amaduswaray/IN2010-Gruppe-4/blob/main/Uke%2012/Uke%2012.pdf)
 
 ### Algorithms of the week
 Denne uka har ikke fokus på algorimter, det er litt mer abstrakt. Men fokuser på å lære deg disse konseptene!!
