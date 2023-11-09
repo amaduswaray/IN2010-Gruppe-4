@@ -26,6 +26,11 @@ Mattermost: amadus
 
 
 ### Eksterne eksamensressurser:
+Nå som det er eksamenstid så har jeg funnet noen gode oppgaver dere kan jobbe med:
+[Eksamensrelevante oppgaver](https://github.com/amaduswaray/IN2010-Gruppe-5/tree/main/Eksamen-Oppgaver)
+
+
+På emne siden så ligger ikke konte-eksamen 2021 ute, men den kan dere finne [her](https://github.com/amaduswaray/IN2010-Gruppe-5/blob/main/Eksamen-Oppgaver/utsattEksamenH21.pdf). Det er ikke noe fasit lagt ut, men det er en grei måte å øve på uten å vite om han har gjort ting rett. God måte å simulere eksamen på :)
 
 
 ## Ukeplan
