@@ -1,4 +1,4 @@
-# Uke 11 - Beregnbarhet og Kompleksitet
+# Uke 12 - Beregnbarhet og Kompleksitet
 
 Denne uka gikk vi gjennom beregnbarhet og kompleksite(P og NP) i tillegg til polynomtidsreduksjoner. Se mer på ukas [slides]()
 
