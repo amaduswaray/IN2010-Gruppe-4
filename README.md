@@ -32,6 +32,11 @@ Nå som det er eksamenstid så har jeg funnet noen gode oppgaver dere kan jobbe 
 
 På emne siden så ligger ikke konte-eksamen 2021 ute, men den kan dere finne [her](https://github.com/amaduswaray/IN2010-Gruppe-5/blob/main/Eksamen-Oppgaver/utsattEksamenH21.pdf). Det er ikke noe fasit lagt ut, men det er en grei måte å øve på uten å vite om han har gjort ting rett. God måte å simulere eksamen på :)
 
+### Repitisjons Uker
+De 2 siste ukene brukes til å repitere pensum!
+
+Slidsene fra repitisjonsuke 1 kan dere finne [her]()
+
 
 ## Ukeplan
 * [Uke 1](https://github.com/amaduswaray/IN2010-Gruppe-4/tree/main/Uke%201) - O-Notasjon og Binærsøk
