@@ -35,7 +35,7 @@ På emne siden så ligger ikke konte-eksamen 2021 ute, men den kan dere finne [h
 ### Repitisjons Uker
 De 2 siste ukene brukes til å repitere pensum!
 
-Slidsene fra repitisjonsuke 1 kan dere finne [her]()
+Slidsene fra repitisjonsuke 1 kan dere finne [her](https://github.com/amaduswaray/IN2010-Gruppe-4/blob/main/Repetition%201.pdf)
 
 
 ## Ukeplan
